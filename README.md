@@ -41,7 +41,7 @@ It provides a **centralized communication system** that ensures all users are in
  ## 🛠️ Setup Instructions  
 1. **Clone the repository:**  
     
-   git clone  https://github.com/ms00000ms0000/Campus_Pulse/tree/master.git
+   git clone  https://github.com/ms00000ms0000/Campus_Pulse.git
 
 2.  Open the project in Android Studio.
 
