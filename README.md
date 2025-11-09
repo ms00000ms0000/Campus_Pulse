@@ -43,13 +43,13 @@ It provides a **centralized communication system** that ensures all users are in
     ```bash
     git clone  https://github.com/ms00000ms0000/Campus_Pulse.git
    ```
-2.  Open the project in Android Studio.
+2.  **Open the project in Android Studio.**
 
-3.  Sync Gradle and build the project.
+3.  **Sync Gradle and build the project.**
 
-4. Run the app on an emulator or connected Android device.
+4. **Run the app on an emulator or connected Android device.**
 
-5. (Optional) Configure Firebase for push notifications.
+5. **(Optional) Configure Firebase for push notifications.**
 
 ---
 
