@@ -32,9 +32,9 @@ It provides a **centralized communication system** that ensures all users are in
 ---
 
 ## 📱 Use Cases  
-- 🎓 **College Campuses:** For class updates, meetings, and workshops.  
-- 🏢 **Office Environments:** For meetings and important announcements.  
-- 🏘️ **Community Groups:** For local or social events.  
+* 🎓 **College Campuses:** For class updates, meetings, and workshops.  
+* 🏢 **Office Environments:** For meetings and important announcements.  
+* 🏘️ **Community Groups:** For local or social events.  
 
 ---
 
@@ -51,21 +51,24 @@ It provides a **centralized communication system** that ensures all users are in
 
 5. (Optional) Configure Firebase for push notifications.
 
+---
+
+
 ## 📷 Screenshots
 
 ![campus_pulse](https://github.com/user-attachments/assets/e2e41266-5e90-4d7a-bb67-18e16982c239)
 
+---
+
 
 ## 👨‍💻 Developer
 
-Developed by: Mayank Srivastava
+* Developed by: Mayank Srivastava
 
-Language: Kotlin
+* Language: Kotlin
 
-IDE: Android Studio
+* IDE: Android Studio
 
-Version: 1.0.0
+* Version: 1.0.0
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
+ 
